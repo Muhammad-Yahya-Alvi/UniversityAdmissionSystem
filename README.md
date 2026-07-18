@@ -19,15 +19,6 @@ A robust, professional desktop application built with Java Swing and MySQL to st
 
 ---
 
-## 📸 Screenshots
-
-| Login Screen | Student Portal | Admin Dashboard |
-| :---: | :---: | :---: |
-| ![Login](https://via.placeholder.com/300x200?text=Login+Screen) | ![Admission](https://via.placeholder.com/300x200?text=Admission+Form) | ![Admin](https://via.placeholder.com/300x200?text=Admin+Dashboard) |
-> *Note: Add your actual screenshots in the docs/ folder and update these links!*
-
----
-
 ## 🛠️ Tech Stack
 
 - **Language:** Java (JDK 17+)
@@ -59,7 +50,8 @@ db.password=your_password
 `
 
 ### 4. Running the Application
-Simply double-click the un.bat file OR run the following commands:
+Simply double-click the 
+un.bat file OR run the following commands:
 `ash
 javac -cp .;mysql-connector-j-8.4.0.jar *.java
 java -cp .;mysql-connector-j-8.4.0.jar LoginFrame
@@ -88,8 +80,7 @@ Contributions are welcome! If you have a suggestion that would make this better,
 
 ## 👤 Author
 **M. Yahya Alvi**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- GitHub: [Muhammad-Yahya-Alvi](https://github.com/Muhammad-Yahya-Alvi)
 
 ---
 *Developed as part of University Semester Project.*
