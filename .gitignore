@@ -1,0 +1,12 @@
+﻿# Compiled Java class files
+*.class
+
+# Log files
+*.log
+
+# Database Configuration (Keep local)
+config.properties
+
+# OS generated files
+.DS_Store
+Thumbs.db
