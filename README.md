@@ -8,7 +8,7 @@ A robust, professional desktop application built with Java Swing and MySQL to st
 
 ---
 
-## ✨ Key Features
+## ✨ Key  Features
 
 - 🖥️ **Modern UI/UX**: Custom-built ModernButton components with hover animations and smooth transitions.
 - 🔐 **Secure Authentication**: Multi-role login system (Admin & Student) with encrypted password handling (simulated).
